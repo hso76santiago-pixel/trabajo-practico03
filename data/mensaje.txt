@@ -1,1 +1,5 @@
 Hola profe aqui estoy crando  mis carpetas y archivos de prueba, verificando que el la pc este funcionando correctamente
+datos personales
+alumno: Héctor Santiago Orellana Gonzalez
+celular: 3834-801585
+correo elerónico: hso76santiago@gmail.com
