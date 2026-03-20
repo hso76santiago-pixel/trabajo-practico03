@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "nombreSuperheroe": "Spider-Man",
+    "nombreReal": "Peter Parker",
+    "nombreSociedad": "Vengadores",
+    "edad": 21,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Humanidad",
+    "poder": "Sentido arácnido",
+    "habilidadEspecial": "Trepar muros",
+    "aliado": "Iron Man",
+    "enemigo": "Duende Verde"
+  }
+]
